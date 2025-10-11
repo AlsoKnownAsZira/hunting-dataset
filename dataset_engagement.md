@@ -50,4 +50,21 @@ https://ieeexplore.ieee.org/document/10945685
 https://www.semanticscholar.org/paper/Student-Class-Behavior-Dataset%3A-a-video-dataset-for-Sun-Wu/d463a0f975c8dfc8b7da90a4e1fd62bc2aa5849b#paper-topics
 
 # dataset berbayar
+
 https://mbd.pub/o/bread/ZZiTl5lw
+
+
+# Update part 1
+### ngisi google form buat mendapatkan data <br>
+https://github.com/vijetait/Classroom-Monitoring-Action-Dataset?tab=readme-ov-file 
+### Classroom Behavior Computer Vision Dataset <br>
+https://universe.roboflow.com/ho-chi-minh-university-of-education/classroom-behavior 
+### Dataset of student classroom behavior <br>
+https://www.kaggle.com/datasets/kaiyueyyds/dataset-of-student-classroom-behavior?utm_source=chatgpt.com <br>
+### ARIC: An Activity Recognition Dataset in Classroom Surveillance Images
+https://ivipclab.github.io/publication_ARIC/ARIC/?utm_source=chatgpt.com
+###
+https://www.nature.com/articles/s41597-025-04987-w?utm_source=chatgpt.com
+### BK-Student Activity Dataset (BK-SAD)
+https://visedu.vn/en/bk-sad-dataset
+
