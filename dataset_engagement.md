@@ -60,11 +60,12 @@ https://github.com/vijetait/Classroom-Monitoring-Action-Dataset?tab=readme-ov-fi
 ### Classroom Behavior Computer Vision Dataset <br>
 https://universe.roboflow.com/ho-chi-minh-university-of-education/classroom-behavior 
 ### Dataset of student classroom behavior <br>
-https://www.kaggle.com/datasets/kaiyueyyds/dataset-of-student-classroom-behavior?utm_source=chatgpt.com <br>
+https://www.kaggle.com/datasets/kaiyueyyds/dataset-of-student-classroom-behavior <br>
 ### ARIC: An Activity Recognition Dataset in Classroom Surveillance Images
-https://ivipclab.github.io/publication_ARIC/ARIC/?utm_source=chatgpt.com
+https://ivipclab.github.io/publication_ARIC/ARIC
 ###
-https://www.nature.com/articles/s41597-025-04987-w?utm_source=chatgpt.com
+https://www.nature.com/articles/s41597-025-04987
 ### BK-Student Activity Dataset (BK-SAD)
 https://visedu.vn/en/bk-sad-dataset
+
 
