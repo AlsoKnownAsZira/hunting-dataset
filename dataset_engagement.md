@@ -67,5 +67,31 @@ https://ivipclab.github.io/publication_ARIC/ARIC
 https://www.nature.com/articles/s41597-025-04987
 ### BK-Student Activity Dataset (BK-SAD)
 https://visedu.vn/en/bk-sad-dataset
-
-
+### Aliyun Tianchi — 课堂行为数据集 (Classroom Behavior Dataset)
+https://tianchi.aliyun.com/dataset/201537
+### Aliyun Tianchi — student behavior_数据集
+https://tianchi.aliyun.com/dataset/203689
+### Baidu AI Studio — 课堂场景行为识别 数据集
+https://aistudio.baidu.com/datasetdetail/119846/0
+### Student Classroom Activity v-2 Computer Vision Model
+https://universe.roboflow.com/studentactivity/student-classroom-activity-v-2/browse?queryText=&pageSize=50&startingIndex=150&browseQuery=true
+### Student Monitoring Computer Vision Dataset
+https://universe.roboflow.com/student-monitoring/student-monitoring <br>
+versi lain<br>
+https://universe.roboflow.com/college-vlzv7/student-monitoring-system/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true
+### Student Classroom Behavior Computer Vision Model
+https://universe.roboflow.com/scd-uwgzf/student-classroom-behavior
+### FIRC资源搜索工具1.2
+https://aistudio.baidu.com/dataset/detail/325626/file
+### AI教学行为合规检查方案
+https://aistudio.baidu.com/projectdetail/4037495
+### Classroom Student Behaviors
+https://www.kaggle.com/datasets/phamluhuynhmai/classroom-student-behaviors
+### 
+https://universe.roboflow.com/project-yzut0/student-classroom-behaviour
+### student class behavior Computer Vision Model
+https://universe.roboflow.com/nbgroup/student-class-behavior
+### 
+https://universe.roboflow.com/can-tho-university/rcnn-oatkt/dataset/7
+### student Computer Vision Dataset
+https://universe.roboflow.com/ccnulll/student-7a68v
