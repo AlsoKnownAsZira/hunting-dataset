@@ -95,3 +95,6 @@ https://universe.roboflow.com/nbgroup/student-class-behavior
 https://universe.roboflow.com/can-tho-university/rcnn-oatkt/dataset/7
 ### student Computer Vision Dataset
 https://universe.roboflow.com/ccnulll/student-7a68v
+
+### A Video Dataset for Classroom Group Engagement Recognition
+https://www.nature.com/articles/s41597-025-04987-w
