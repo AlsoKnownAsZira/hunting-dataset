@@ -46,7 +46,7 @@ SCB menghimpun berbagai sumber; tambahkan uncertainty-driven relabeling/active l
 Etika & privasi
 Sertakan pipeline blur wajah + rilis hanya bounding box/metadata untuk menjaga kepatuhan etika saat publikasi demo. <p>
 
-## OUC-GCE
+## OUC-CGE
 | Tahun | Judul (tautan)                                                                                                   | Varian Dataset | Metode                              | Hasil (Acc / Rec / Prec / F1 / AUC)  | Rangkuman SOTA singkat                                                                                                                                |
 | ----- | ---------------------------------------------------------------------------------------------------------------- | -------------- | ----------------------------------- | ------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2025  | [A Video Dataset for Classroom Group Engagement Recognition](https://www.nature.com/articles/s41597-025-04987-w) | OUC-CGE1       | **SLOW (ResNet-50)**                | **97.8 / 97.8 / 97.6 / 97.7 / 99.8** | Model sederhana dengan *low-freq bias* unggul untuk sinyal keterlibatan kelompok yang stabil; performa tertinggi & AUC ~0.998.  ([PubMed Central][1]) |
@@ -57,3 +57,11 @@ Sertakan pipeline blur wajah + rilis hanya bounding box/metadata untuk menjaga k
 | 2025  | sama                                                                                                             | OUC-CGE1       | **SlowFast**                        | **93.2 / 92.9 / 92.8 / 92.8 / 99.1** | Jalur “Fast” kurang relevan untuk dinamika lambat; SLOW mengungguli SlowFast pada tugas ini.                                                          |
 
 [1]: https://pmc.ncbi.nlm.nih.gov/articles/PMC12003871/?utm_source=chatgpt.com "A Video Dataset for Classroom Group Engagement ..."
+
+
+#### Catatan jika menggunakan OUC-GCE
+**AUC makro SLOW ≈ 0.99;** namun akurasi tinggi bisa mengindikasikan plafon/overfit spesifik dataset (kelas kasar & dominasi fitur spasial). Disarankan *cross-dataset validation*.  
+**Sumber:** [PubMed Central (PMC12003871)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12003871/) • [Scientific Data – s41597-025-04987-w](https://www.nature.com/articles/s41597-025-04987-w)
+
+**Analisis confusion matrix** memotret mis-read postur statis (mis. dagu bersandar disangka fokus) & interferensi gerakan kecil (putar pena vs angkat tangan).  
+**Sumber:** [PubMed Central (PMC12003871)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12003871/) • [Scientific Data – s41597-025-04987-w](https://www.nature.com/articles/s41597-025-04987-w)
