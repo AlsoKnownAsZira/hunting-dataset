@@ -12,8 +12,8 @@
 - Folder dataset sumber (video):
 F:\OUC-CGE dataset\{high, med, Low}
 - Folder kerja:
-D:\kuliah\Skripsi\training dataset\ (data keluaran & skrip)
-D:\kuliah\Skripsi\runs\ (hasil training/evaluasi)
+D:\kuliah\Skripsi\training dataset\
+- (data keluaran & skrip)D:\kuliah\Skripsi\runs\ (hasil training/evaluasi)
 ### Aktivasi env & instalasi paket
 ```
 D:\kuliah\Skripsi\venv-ouc-cge\Scripts\Activate.ps1
