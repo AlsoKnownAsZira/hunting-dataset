@@ -128,7 +128,7 @@ yolo task=classify mode=val `
 Val Top-1 ≈ 0.998
 Test Top-1 = 0.99
 ```
-
+![alt text](results.png)
 ### Confusion Matrix 
 ![alt text](confusion_matrix.png) ![alt text](confusion_matrix_normalized.png)
 <br>
